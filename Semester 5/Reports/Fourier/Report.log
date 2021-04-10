@@ -1,0 +1,1759 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.28)  2 FEB 2021 01:11
+entering extended mode
+**c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex
+(c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03> (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/cmap\cmap.sty
+Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
+) (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+ (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+ (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/base\t2aenc.dfu
+File: t2aenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+))
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 112.
+ (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)<<t2a.cmap>>) (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+) (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2020/12/16 3.52 The Babel package
+ (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2020/12/16 3.52 Babel common definitions
+\babel@savecnt=\count185
+\U@D=\dimen139
+\l@babelnohyphens=\language79
+ (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count186
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 108.
+) (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/babel-russian\russianb.ldf
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+Package babel Info: Making " an active character on input line 124.
+Package babel Info: Default for \cyrdash is provided on input line 163.
+)) (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+ (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+ (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)) (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+ (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen140
+\ar@mcellbox=\box47
+\extrarowheight=\dimen141
+\NC@list=\toks17
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box48
+)
+\everycr=\toks18
+\minrowclearance=\skip51
+) (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks19
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen142
+)) (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen143
+) (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count187
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count188
+\leftroot@=\count189
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count190
+\DOTSCASE@=\count191
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box49
+\strutbox@=\box50
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count192
+\c@MaxMatrixCols=\count193
+\dotsspace@=\muskip17
+\c@parentequation=\count194
+\dspbrk@lvl=\count195
+\tag@help=\toks21
+\row@=\count196
+\column@=\count197
+\maxfields@=\count198
+\andhelp@=\toks22
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks23
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+) (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+) (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/sidecap\sidecap.sty
+Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
+ (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\SC@BOXWD=\dimen153
+\SC@CAPWD=\dimen154
+\SC@tempdima=\dimen155
+\SC@tempdimb=\dimen156
+\c@SC@C=\count199
+\SC@BOX=\box51
+) (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen157
+\WF@size=\dimen158
+\c@WF@wrappedlines=\count266
+\WF@box=\box52
+\WF@everypar=\toks26
+Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count267
+\l__pdf_internal_box=\box53
+) (c:/Users\Art\Desktop\MSU\SA\Matlab\Reports\Fourier\Report.aux)
+\openout1 = `Report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Info: Redefining \th on input line 20.
+ (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count268
+\scratchdimen=\dimen159
+\scratchbox=\box54
+\nofMPsegments=\count269
+\nofMParguments=\count270
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count271
+\MPscratchDim=\dimen160
+\MPnumerator=\count272
+\makeMPintoPDFobject=\count273
+\everyMPtoPDFconversion=\toks28
+) (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+) (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
+ (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/everysel\everysel.sty
+Package: everysel 2021/01/20 v2.1 EverySelectfont Package (MS)
+ (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/everysel\everysel-2011-10-28.sty ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 123.
+))
+\CenteringLeftskip=\skip55
+\RaggedLeftLeftskip=\skip56
+\RaggedRightLeftskip=\skip57
+\CenteringRightskip=\skip58
+\RaggedLeftRightskip=\skip59
+\RaggedRightRightskip=\skip60
+\CenteringParfillskip=\skip61
+\RaggedLeftParfillskip=\skip62
+\RaggedRightParfillskip=\skip63
+\JustifyingParfillskip=\skip64
+\CenteringParindent=\skip65
+\RaggedLeftParindent=\skip66
+\RaggedRightParindent=\skip67
+\JustifyingParindent=\skip68
+)
+<mgu.png, id=2, 179.05702pt x 188.76492pt>
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:36: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.36 \includegraphics[width=6, height=6]{mgu}
+                                             
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:36: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.36 \includegraphics[width=6, height=6]{mgu}
+                                             
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: mgu.png Graphic file (type png)
+<use mgu.png>
+Package pdftex.def Info: mgu.png  used on input line 36.
+(pdftex.def)             Requested size: 5.99988pt x 5.9997pt.
+[1
+
+{C:/Users/Art/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/mgu.png (PNG copy)>]<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 62.
+ (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 62.
+ (C:\Users\Art\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:88: Undefined control sequence.
+l.88 \noident
+              $step$ - —à–∞–≥ –¥–∏—Å–∫—Ä–µ—Ç–∏–∑–∞—Ü–∏–∏.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:89: Undefined control sequence.
+l.89 \noident
+              $N$ - —á–∏—Å–ª–æ —Ç–æ—á–µ–∫ –º–Ω–æ–∂–µ—Å—Ç–≤–∞, –Ω–∞~–∫–æ—Ç–æ—...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \cyrch invalid in math mode on input line 98.
+
+Missing character: There is no ˜ in font cmr10!
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:107: Undefined control sequence.
+l.107 \noident
+               –ß–∞—Å—Ç–æ—Ç–∞ –¥–∏—Å–∫—Ä–µ—Ç–∏–∑–∞—Ü–∏–∏ –≤ —á–∞—Å—Ç–æ—Ç–Ω–æ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[2]
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:118: Missing $ inserted.
+<inserted text> 
+                $
+l.118 \begin{flushleft}
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:118: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.118 \begin{flushleft}
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:118: Display math should end with $$.
+<to be read again> 
+                   \par 
+l.118 \begin{flushleft}
+                       
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:120: Missing $ inserted.
+<inserted text> 
+                $
+l.120 \noindent F(\lambda
+                         ) = \int\limits_{-\infty}^{+\infty} \frac{2-t}{1+5t...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:122: Missing $ inserted.
+<inserted text> 
+                $
+l.122 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:122: Missing } inserted.
+<inserted text> 
+                }
+l.122 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:122: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.122 
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:123: LaTeX Error: \begin{equation*} on input line 117 ended by \end{flushleft}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.123 \end{flushleft}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:124: LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.124 \]
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:124: LaTeX Error: \begin{document} ended by \end{equation*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.124 \]
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:124: Missing $ inserted.
+<inserted text> 
+                $
+l.124 \]
+        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:124: Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.124 \]
+        
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:124: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.124 \]
+        
+Things are pretty mixed up, but I think the worst is over.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:130: Missing $ inserted.
+<inserted text> 
+                $
+l.130 \begin{flushleft}
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:130: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.130 \begin{flushleft}
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:130: Display math should end with $$.
+<to be read again> 
+                   \par 
+l.130 \begin{flushleft}
+                       
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:131: Missing $ inserted.
+<inserted text> 
+                $
+l.131 res\limits
+                _{t = t1} =  \lim\limits_{t \to t1}(t+\frac{1}{i\sqrt{5}})
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:131: Limit controls must follow a math operator.
+<recently read> \limits 
+                        
+l.131 res\limits
+                _{t = t1} =  \lim\limits_{t \to t1}(t+\frac{1}{i\sqrt{5}})
+I'm ignoring this misplaced \limits or \nolimits command.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:134: LaTeX Error: Command \end{equation*} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.134 \end{flushleft}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:134: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.134 \end{flushleft}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:134: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.134 \end{flushleft}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:134: LaTeX Error: \begin{equation*} on input line 129 ended by \end{flushleft}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.134 \end{flushleft}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:134: Missing $ inserted.
+<inserted text> 
+                $
+l.134 \end{flushleft}
+                     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:135: LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.135 \]
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (0.26297pt too wide) in paragraph at lines 131--135
+[]\T2A/cmr/m/n/10 res$[] \OT1/cmr/m/n/10 = [](\OML/cmm/m/it/10 t \OT1/cmr/m/n/10 + [])[]\OML/cmm/m/it/10 e[] \OT1/cmr/m/n/10 = [] []\OML/cmm/m/it/10 e[] \OT1/cmr/m/n/10 = []\OML/cmm/m/it/10 e[]$ 
+ []
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:135: LaTeX Error: \begin{document} ended by \end{equation*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.135 \]
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:135: Missing $ inserted.
+<inserted text> 
+                $
+l.135 \]
+        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:135: Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.135 \]
+        
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:135: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.135 \]
+        
+Things are pretty mixed up, but I think the worst is over.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:138: Missing $ inserted.
+<inserted text> 
+                $
+l.138 \begin{flushleft}
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:138: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.138 \begin{flushleft}
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:138: Display math should end with $$.
+<to be read again> 
+                   \def 
+l.138 \begin{flushleft}
+                       
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:139: Missing $ inserted.
+<inserted text> 
+                $
+l.139 res\limits
+                _{t = t2} =  \lim\limits_{t \to t1}(t-\frac{1}{i\sqrt{5}})
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:139: Limit controls must follow a math operator.
+<recently read> \limits 
+                        
+l.139 res\limits
+                _{t = t2} =  \lim\limits_{t \to t1}(t-\frac{1}{i\sqrt{5}})
+I'm ignoring this misplaced \limits or \nolimits command.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:142: LaTeX Error: Command \end{equation*} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.142 \end{flushleft}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:142: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.142 \end{flushleft}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:142: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.142 \end{flushleft}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:142: LaTeX Error: \begin{equation*} on input line 137 ended by \end{flushleft}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.142 \end{flushleft}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:142: Missing $ inserted.
+<inserted text> 
+                $
+l.142 \end{flushleft}
+                     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:143: LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.143 \]
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (0.9921pt too wide) in paragraph at lines 139--143
+[]\T2A/cmr/m/n/10 res$[] \OT1/cmr/m/n/10 = [](\OML/cmm/m/it/10 t \OMS/cmsy/m/n/10   []\OT1/cmr/m/n/10 )[]\OML/cmm/m/it/10 e[] \OT1/cmr/m/n/10 = [] []\OML/cmm/m/it/10 e[] \OT1/cmr/m/n/10 = []\OML/cmm/m/it/10 e[]$ 
+ []
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:143: LaTeX Error: \begin{document} ended by \end{equation*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.143 \]
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:143: Missing $ inserted.
+<inserted text> 
+                $
+l.143 \]
+        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:143: Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.143 \]
+        
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:143: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.143 \]
+        
+Things are pretty mixed up, but I think the worst is over.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:146: Missing $ inserted.
+<inserted text> 
+                $
+l.146 \begin{flushleft}
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:146: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.146 \begin{flushleft}
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:146: Display math should end with $$.
+<to be read again> 
+                   \def 
+l.146 \begin{flushleft}
+                       
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:147: Missing $ inserted.
+<inserted text> 
+                $
+l.147 F(\lambda
+               ) = 2\pi i\begin{cases}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:148: Limit controls must follow a math operator.
+l.148   res\limits
+                  _{t = t1}, & \lambda < 0 \\
+I'm ignoring this misplaced \limits or \nolimits command.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:149: Limit controls must follow a math operator.
+l.149   res\limits
+                  _{t = t2}, & \lambda > 0
+I'm ignoring this misplaced \limits or \nolimits command.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:159: LaTeX Error: Command \end{equation*} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.159 \end{flushleft}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:159: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.159 \end{flushleft}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:159: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.159 \end{flushleft}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:159: LaTeX Error: \begin{equation*} on input line 145 ended by \end{flushleft}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.159 \end{flushleft}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:159: Missing $ inserted.
+<inserted text> 
+                $
+l.159 \end{flushleft}
+                     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:160: LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.160 \]
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (46.58394pt too wide) in paragraph at lines 147--160
+[]\T2A/cmr/m/n/10 F($\OML/cmm/m/it/10 \OT1/cmr/m/n/10 ) = 2\OML/cmm/m/it/10 i [] \OT1/cmr/m/n/10 = [] = []$ 
+ []
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:160: LaTeX Error: \begin{document} ended by \end{equation*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.160 \]
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:160: Missing $ inserted.
+<inserted text> 
+                $
+l.160 \]
+        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:160: Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.160 \]
+        
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:160: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.160 \]
+        
+Things are pretty mixed up, but I think the worst is over.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:163: Missing $ inserted.
+<inserted text> 
+                $
+l.163 \begin{flushleft}
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:163: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.163 \begin{flushleft}
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:163: Display math should end with $$.
+<to be read again> 
+                   \def 
+l.163 \begin{flushleft}
+                       
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:165: Missing $ inserted.
+<inserted text> 
+                $
+l.165 \noindent F(\lambda
+                         ) = \int\limits_{-\infty}^{+\infty} e^{-t^2}(\frac{...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:166: Undefined control sequence.
+l.166 ...-\infty}^{+\infty}e^{-t^2+t}e^{-i\lambdat
+                                                  }\,dt-
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:167: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.167 ...\infty}e^{-t^2-t}e^{-i\lambda t}\,dt = \\
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:167: Missing $ inserted.
+<inserted text> 
+                $
+l.167 ...\infty}e^{-t^2-t}e^{-i\lambda t}\,dt = \\
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:167: Missing } inserted.
+<inserted text> 
+                }
+l.167 ...\infty}e^{-t^2-t}e^{-i\lambda t}\,dt = \\
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:167: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.167 ...\infty}e^{-t^2-t}e^{-i\lambda t}\,dt = \\
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:168: Missing $ inserted.
+<inserted text> 
+                $
+l.168 =\lbrace
+               u = t - \frac{1}{2};\ v = t+\frac{1}{2}\rbrace =
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:169: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.169 ...^2}e^{-i\lambda (v-\frac{1}{2}})\,dv = \\
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:169: Missing $ inserted.
+<inserted text> 
+                $
+l.169 ...^2}e^{-i\lambda (v-\frac{1}{2}})\,dv = \\
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:169: Missing } inserted.
+<inserted text> 
+                }
+l.169 ...^2}e^{-i\lambda (v-\frac{1}{2}})\,dv = \\
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:169: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.169 ...^2}e^{-i\lambda (v-\frac{1}{2}})\,dv = \\
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:170: Missing $ inserted.
+<inserted text> 
+                $
+l.170 ...\frac{1}{4}-\frac{i\lambda}{2}}}{2}\)\int
+                                                  \limits_{-\infty}^{+\infty...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:171: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.171 ...{+\infty}e^{-v^2}e^{-i\lambda v}\,dv = \\
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:171: Missing $ inserted.
+<inserted text> 
+                $
+l.171 ...{+\infty}e^{-v^2}e^{-i\lambda v}\,dv = \\
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:171: Missing } inserted.
+<inserted text> 
+                }
+l.171 ...{+\infty}e^{-v^2}e^{-i\lambda v}\,dv = \\
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:171: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.171 ...{+\infty}e^{-v^2}e^{-i\lambda v}\,dv = \\
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:172: Missing $ inserted.
+<inserted text> 
+                $
+l.172 =\lbrace
+               g(t) = e^{-t^2} => G(\lambda) = \frac{1}{\sqrt{2}}e^{\frac{-\...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:174: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.174 = \\
+           = \sqrt{\pi}e^{\frac{1}{4}+\frac{\lambda^2}{4}}(\cos(-\frac{\lamb...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:174: Missing $ inserted.
+<inserted text> 
+                $
+l.174 = \\
+           = \sqrt{\pi}e^{\frac{1}{4}+\frac{\lambda^2}{4}}(\cos(-\frac{\lamb...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:174: Missing } inserted.
+<inserted text> 
+                }
+l.174 = \\
+           = \sqrt{\pi}e^{\frac{1}{4}+\frac{\lambda^2}{4}}(\cos(-\frac{\lamb...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:174: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.174 = \\
+           = \sqrt{\pi}e^{\frac{1}{4}+\frac{\lambda^2}{4}}(\cos(-\frac{\lamb...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:174: Missing $ inserted.
+<inserted text> 
+                $
+l.174 = \\ = \sqrt{
+                   \pi}e^{\frac{1}{4}+\frac{\lambda^2}{4}}(\cos(-\frac{\lamb...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:177: LaTeX Error: Command \end{equation*} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.177 \end{flushleft}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:177: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.177 \end{flushleft}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:177: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.177 \end{flushleft}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:177: LaTeX Error: \begin{equation*} on input line 162 ended by \end{flushleft}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.177 \end{flushleft}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:177: Missing $ inserted.
+<inserted text> 
+                $
+l.177 \end{flushleft}
+                     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:178: LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.178 \]
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:178: LaTeX Error: \begin{document} ended by \end{equation*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.178 \]
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:178: Missing $ inserted.
+<inserted text> 
+                $
+l.178 \]
+        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:178: Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.178 \]
+        
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:178: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.178 \]
+        
+Things are pretty mixed up, but I think the worst is over.
+
+[3]
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:186: Package keyval Error: height 10cm undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.186 ...hics[width = 10cm, height 10cm]{f1_1.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<f1_1.jpg, id=34, 517.935pt x 398.48875pt>
+File: f1_1.jpg Graphic file (type jpg)
+<use f1_1.jpg>
+Package pdftex.def Info: f1_1.jpg  used on input line 186.
+(pdftex.def)             Requested size: 284.52756pt x 218.92018pt.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:190: Package keyval Error: height 10cm undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.190 ...hics[width = 10cm, height 10cm]{f1_2.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<f1_2.jpg, id=35, 528.97626pt x 400.49625pt>
+File: f1_2.jpg Graphic file (type jpg)
+<use f1_2.jpg>
+Package pdftex.def Info: f1_2.jpg  used on input line 190.
+(pdftex.def)             Requested size: 284.52756pt x 215.42142pt.
+[4 <c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/f1_1.jpg> <c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/f1_2.jpg>]
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:198: Package keyval Error: height 10cm undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.198 ...hics[width = 10cm, height 10cm]{f2_1.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<f2_1.jpg, id=46, 510.90875pt x 406.51875pt>
+File: f2_1.jpg Graphic file (type jpg)
+<use f2_1.jpg>
+Package pdftex.def Info: f2_1.jpg  used on input line 198.
+(pdftex.def)             Requested size: 284.52756pt x 226.38974pt.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:202: Package keyval Error: height 10cm undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.202 ...hics[width = 10cm, height 10cm]{f2_2.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<f2_2.jpg, id=47, 513.92pt x 404.51125pt>
+File: f2_2.jpg Graphic file (type jpg)
+<use f2_2.jpg>
+Package pdftex.def Info: f2_2.jpg  used on input line 202.
+(pdftex.def)             Requested size: 284.52756pt x 223.95706pt.
+[5 <c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/f2_1.jpg> <c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/f2_2.jpg>]
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:210: Package keyval Error: height 10cm undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 ...hics[width = 10cm, height 10cm]{f3_1.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<f3_1.jpg, id=51, 499.8675pt x 397.485pt>
+File: f3_1.jpg Graphic file (type jpg)
+<use f3_1.jpg>
+Package pdftex.def Info: f3_1.jpg  used on input line 210.
+(pdftex.def)             Requested size: 284.52756pt x 226.25948pt.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:214: Package keyval Error: height 10cm undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.214 ...hics[width = 10cm, height 10cm]{f3_2.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<f3_2.jpg, id=52, 513.92pt x 399.4925pt>
+File: f3_2.jpg Graphic file (type jpg)
+<use f3_2.jpg>
+Package pdftex.def Info: f3_2.jpg  used on input line 214.
+(pdftex.def)             Requested size: 284.52756pt x 221.17844pt.
+[6 <c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/f3_1.jpg> <c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/f3_2.jpg>]
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:222: Package keyval Error: height 10cm undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.222 ...hics[width = 10cm, height 10cm]{f4_1.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<f4_1.jpg, id=56, 501.875pt x 403.5075pt>
+File: f4_1.jpg Graphic file (type jpg)
+<use f4_1.jpg>
+Package pdftex.def Info: f4_1.jpg  used on input line 222.
+(pdftex.def)             Requested size: 284.52756pt x 228.77026pt.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:226: Package keyval Error: height 10cm undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.226 ...hics[width = 10cm, height 10cm]{f4_2.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<f4_2.jpg, id=57, 515.9275pt x 397.485pt>
+File: f4_2.jpg Graphic file (type jpg)
+<use f4_2.jpg>
+Package pdftex.def Info: f4_2.jpg  used on input line 226.
+(pdftex.def)             Requested size: 284.52756pt x 219.2118pt.
+[7 <c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/f4_1.jpg> <c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/f4_2.jpg>]
+Overfull \hbox (3.526pt too wide) in paragraph at lines 233--234
+\T2A/cmr/m/n/10 ‡Ì‡-ÎË-ÚË˜Í-ÒÍÓ-„Ó Â-¯Â-ÌËˇ(ÒËÌˇˇ) Ò ‰‚Û-Ïˇ ÍË-‚˚-ÏË ‡Ô-ÔÓÍ-ÒË-Ï‡-ˆËÈ(Í‡ÒÌ˚Â). 
+ []
+
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:238: Package keyval Error: height 12cm undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.238 ...idth = 12cm, height 12cm]{spectre2_1.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<spectre2_1.jpg, id=62, 509.905pt x 397.485pt>
+File: spectre2_1.jpg Graphic file (type jpg)
+<use spectre2_1.jpg>
+Package pdftex.def Info: spectre2_1.jpg  used on input line 238.
+(pdftex.def)             Requested size: 341.43306pt x 266.168pt.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:244: Package keyval Error: height 12cm undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.244 ...idth = 12cm, height 12cm]{spectre2_2.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<spectre2_2.jpg, id=63, 520.94624pt x 401.5pt>
+File: spectre2_2.jpg Graphic file (type jpg)
+<use spectre2_2.jpg>
+Package pdftex.def Info: spectre2_2.jpg  used on input line 244.
+(pdftex.def)             Requested size: 341.43306pt x 263.14676pt.
+[8 <c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/spectre2_1.jpg>]
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:250: Package keyval Error: height 12cm undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.250 ...idth = 12cm, height 12cm]{spectre2_3.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<spectre2_3.jpg, id=67, 488.82625pt x 405.515pt>
+File: spectre2_3.jpg Graphic file (type jpg)
+<use spectre2_3.jpg>
+Package pdftex.def Info: spectre2_3.jpg  used on input line 250.
+(pdftex.def)             Requested size: 341.43306pt x 283.24597pt.
+[9 <c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/spectre2_2.jpg>] [10 <c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/spectre2_3.jpg>]
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:261: Package keyval Error: height 12cm undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.261 ...width = 12cm, height 12cm]{dribble_1.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<dribble_1.jpg, id=74, 509.905pt x 404.51125pt>
+File: dribble_1.jpg Graphic file (type jpg)
+<use dribble_1.jpg>
+Package pdftex.def Info: dribble_1.jpg  used on input line 261.
+(pdftex.def)             Requested size: 341.43306pt x 270.87299pt.
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:267: Package keyval Error: height 12cm undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.267 ...width = 12cm, height 12cm]{dribble_2.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<dribble_2.jpg, id=75, 524.96124pt x 400.49625pt>
+File: dribble_2.jpg Graphic file (type jpg)
+<use dribble_2.jpg>
+Package pdftex.def Info: dribble_2.jpg  used on input line 267.
+(pdftex.def)             Requested size: 341.43306pt x 260.49059pt.
+[11 <c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/dribble_1.jpg>]
+
+c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/Report.tex:273: Package keyval Error: height 12cm undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.273 ...width = 12cm, height 12cm]{dribble_3.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<dribble_3.jpg, id=79, 516.93124pt x 400.49625pt>
+File: dribble_3.jpg Graphic file (type jpg)
+<use dribble_3.jpg>
+Package pdftex.def Info: dribble_3.jpg  used on input line 273.
+(pdftex.def)             Requested size: 341.43306pt x 264.53612pt.
+[12 <c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/dribble_2.jpg>] [13 <c:/Users/Art/Desktop/MSU/SA/Matlab/Reports/Fourier/dribble_3.jpg>] (c:/Users\Art\Desktop\MSU\SA\Matlab\Reports\Fourier\Report.aux) ) 
+Here is how much of TeX's memory you used:
+ 4569 strings out of 479618
+ 61059 string characters out of 2865976
+ 367831 words of memory out of 3000000
+ 21600 multiletter control sequences out of 15000+200000
+ 417896 words of font info for 63 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,14n,74p,461b,201s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Art\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Art\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Art\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Art\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\Art\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk> <C:\Users\Art\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1728.pk> <C:\Users\Art\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Art\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1000.pk><C:/Users/Art/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Art/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Art/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Art/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Art/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Art/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Art/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Art/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Art/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Art/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Art/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Art/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Art/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Art/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/Art/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Art/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on c:/Users\Art\Desktop\MSU\SA\Matlab\Reports\Fourier\Report.pdf (13 pages, 842804 bytes).
+PDF statistics:
+ 437 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+

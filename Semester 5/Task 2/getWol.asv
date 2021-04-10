@@ -1,0 +1,5 @@
+% function for Subtask 5
+function ci = getWol(i)
+    ci = sign(sin((2^i)*pi*x));
+    
+end
